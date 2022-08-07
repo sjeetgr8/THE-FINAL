@@ -46,3 +46,4 @@ app.layout = html.Div(children=[html.H1('SpaceX Launch Records Dashboard',
 # Run the app
 if __name__ == '__main__':
     app.run_server()
+
